@@ -8,6 +8,10 @@ Development the front side of asimulated hotel website (which is called HBT), Th
 
 3️⃣ Contact page
 
+## Link
+
+https://odedatias.github.io/Hotel-Website/
+
 ## Technologies
 👉 HTML
 
